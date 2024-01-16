@@ -1,0 +1,6 @@
+root = true 
+# Vai ficar procurando até achar o root = true
+[*] 
+# [*] isso significa que essa config vai valer para tudo!
+indent_style = space
+indent_size = 2
