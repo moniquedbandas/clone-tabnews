@@ -1,5 +1,9 @@
 function Home() {
-  return <h1>oi fofinhoinhu :3!!! s2 </h1>;
+  return (
+    <h1>
+      This is going to be my first try out website for my anime cloathing shop!
+    </h1>
+  );
 }
 
 function teste() {
